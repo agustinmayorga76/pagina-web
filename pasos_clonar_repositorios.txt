@@ -1,0 +1,5 @@
+git clone https://github.com/UCC-LabCompu2/primer-html-gastonfp.git
+git rm -f --cached primer-html-gastonfp/
+ git submodule add https://github.com/UCC-LabCompu2/primer-html-gastonfp.git
+ git commit -am "agrego contenido"
+ git push https://github.com/agustinmayorga76/pagina-web.git
