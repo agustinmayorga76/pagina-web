@@ -4,3 +4,6 @@
 [submodule "proyecto-darcula-teamweb"]
 	path = proyecto-darcula-teamweb
 	url = https://github.com/UCC-LabCompu2/proyecto-darcula-teamweb.git
+[submodule "ejerciciosjavascript-agustinmayorga76"]
+	path = ejerciciosjavascript-agustinmayorga76
+	url = https://github.com/UCC-LabCompu2/ejerciciosjavascript-agustinmayorga76.git
